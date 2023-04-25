@@ -8,7 +8,4 @@
       </button>
     </div>
   </nav>
-
-
-
-</template>
+  </template>
